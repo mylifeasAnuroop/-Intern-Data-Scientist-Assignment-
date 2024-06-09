@@ -1,5 +1,7 @@
-# Project: Subtheme Sentiment Analysis Task
+# Project: Subtheme Sentiment Analysis Task 
 ### Author : Anuroop Arya
+
+[Click here to view the code file]([subtheme_sentiment_analysis.py](https://github.com/mylifeasAnuroop/-Intern-Data-Scientist-Assignment-/blob/main/Oriserve_Intern_Assignment_.ipynb))
 
 Subtheme Sentiment Analysis Task
 Take the following example:
