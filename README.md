@@ -1,8 +1,7 @@
 # Project: Subtheme Sentiment Analysis Task 
 ### Author : Anuroop Arya
 
-[Click here to view the code file]([subtheme_sentiment_analysis.py](https://github.com/mylifeasAnuroop/-Intern-Data-Scientist-Assignment-/blob/main/Oriserve_Intern_Assignment_.ipynb))
-
+[Click here to view the code file](https://github.com/mylifeasAnuroop/-Intern-Data-Scientist-Assignment-/blob/main/Oriserve_Intern_Assignment_.ipynb)
 Subtheme Sentiment Analysis Task
 Take the following example:
 “One tyre went missing, so there was a delay to get the two tyres fitted. The way garage dealt
