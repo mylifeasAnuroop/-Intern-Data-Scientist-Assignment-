@@ -1,5 +1,6 @@
 # Project: Subtheme Sentiment Analysis Task
-Author : Anuroop Arya
+### Author : Anuroop Arya
+
 Subtheme Sentiment Analysis Task
 Take the following example:
 “One tyre went missing, so there was a delay to get the two tyres fitted. The way garage dealt
